@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer/software engineer from Mexico</h3>
 <hr>
 <br>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif">
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystiancp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="chrystiancp" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrystiancp&label=Profile%20views&color=0e75b6&style=flat" alt="chrystiancp" /> </p>
 
@@ -32,4 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrystiancp&" alt="chrystiancp" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrystiancp&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="chrystiancp" /></p>
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif">
+
